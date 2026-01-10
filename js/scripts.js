@@ -48,15 +48,15 @@ window.addEventListener("DOMContentLoaded", ()=> {
 });
 const projectsData = [
   {title:"مشروع 1", link:"https://shalplatform.com"},
-  {title:"مشروع 2", link:"https://sportive-sa.com"},
+  {title:"مشروع 2", link:"http://nasaq-eng.com"},
   {title:"مشروع 3", link:"https://dashcamaster.com"},
-  {title:"مشروع 4", link:"https://kidsgardensriyadh.com/"},
+  {title:"مشروع 4", link:"https://kidsgardensriyadh.com"},
   {title:"مشروع 5", link:"https://rsjsa.com"},
   {title:"مشروع 6", link:"https://mirolicksa.com"},
   {title:"مشروع 7", link:"https://gymvibee.com"},
   {title:"مشروع 8", link:"https://imperialtextile.online"},
-  {title:"مشروع 9", link:"https://omco099.github.io/Templet1"},
-  {title:"مشروع 10", link:"https://omco099.github.io/Templet2"},
+  {title:"مشروع 9", link:"https://woodmakerksa.com"},
+  {title:"مشروع 10", link:"https://mawzy.myshopify.com"},
   {title:"مشروع 11", link:"https://turtlecaresa.com"},
   {title:"مشروع 12", link:"https://blackdiamond22.com"}
 ];
