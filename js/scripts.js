@@ -44,7 +44,7 @@ function animateValue(id, start, end, duration) {
 window.addEventListener("DOMContentLoaded", ()=> {
   animateValue("projectCount", 0, 500, 2200);
   animateValue("clientCount", 0, 150, 1800);
-  animateValue("exp", 0, 2, 1500);
+  animateValue("exp", 0, 3, 1500);
 });
 const projectsData = [
   {title:"مشروع 1", link:"https://shalplatform.com"},
