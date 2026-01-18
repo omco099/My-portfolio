@@ -60,7 +60,9 @@ const projectsData = [
   {title:"مشروع 11", link:"https://turtlecaresa.com"},
   {title:"مشروع 12", link:"https://blackdiamond22.com"},
   {title:"مشروع 13", link:"https://gokartneeds.com"},
-  {title:"مشروع 14", link:"https://axirabeauty.com"}
+  {title:"مشروع 14", link:"https://axirabeauty.com"},
+  {title:"مشروع 15", link:"https://alajyaltec.com"},
+  {title:"مشروع 16", link:"https://electrox-shope.com"}
 ];
 function createProjects() {
   const grid = document.getElementById("projectsGrid");
