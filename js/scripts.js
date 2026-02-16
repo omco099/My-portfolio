@@ -53,20 +53,17 @@ const projectsData = [
   {title:"مشروع 4", link:"https://kidsgardensriyadh.com"},
   {title:"مشروع 5", link:"https://rsjsa.com"},
   {title:"مشروع 6", link:"https://mirolicksa.com"},
-  {title:"مشروع 7", link:"https://gymvibee.com"},
-  {title:"مشروع 8", link:"https://imperialtextile.online"},
+  {title:"مشروع 7", link:"https://lilyflowers.ae"},
+  {title:"مشروع 8", link:"https://danahagency.com"},
   {title:"مشروع 9", link:"https://woodmakerksa.com"},
-  {title:"مشروع 10", link:"https://mawzy.myshopify.com"},
+  {title:"مشروع 10", link:"https://visionsa.org"},
   {title:"مشروع 11", link:"https://turtlecaresa.com"},
   {title:"مشروع 12", link:"https://blackdiamond22.com"},
   {title:"مشروع 13", link:"https://gokartneeds.com"},
   {title:"مشروع 14", link:"https://axirabeauty.com"},
   {title:"مشروع 15", link:"https://alajyaltec.com"},
   {title:"مشروع 16", link:"https://electrox-shope.com"},
-  {title:"مشروع 17", link:"https://beauttiq.com"},
-  {title:"مشروع 18", link:"https://visionsa.org"},
-  {title:"مشروع 19", link:"https://danahagency.com"},
-  {title:"مشروع 19", link:"https://lilyflowers.ae"}
+  {title:"مشروع 17", link:"https://beauttiq.com"}
 ];
 function createProjects() {
   const grid = document.getElementById("projectsGrid");
