@@ -63,7 +63,8 @@ const projectsData = [
   {title:"مشروع 14", link:"https://axirabeauty.com"},
   {title:"مشروع 15", link:"https://alajyaltec.com"},
   {title:"مشروع 16", link:"https://electrox-shope.com"},
-  {title:"مشروع 17", link:"https://beauttiq.com"}
+  {title:"مشروع 17", link:"https://beauttiq.com"},
+  {title:"مشروع 17", link:"https://phllog.com"}
 ];
 function createProjects() {
   const grid = document.getElementById("projectsGrid");
