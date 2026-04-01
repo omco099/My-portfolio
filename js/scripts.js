@@ -44,7 +44,7 @@ function animateValue(id, start, end, duration) {
 window.addEventListener("DOMContentLoaded", ()=> {
   animateValue("projectCount", 0, 500, 2200);
   animateValue("clientCount", 0, 150, 1800);
-  animateValue("exp", 0, 4, 1500);
+  animateValue("exp", 0, 6, 1500);
 });
 const projectsData = [
   {title:"مشروع 1", link:"https://shalplatform.com"},
@@ -64,7 +64,8 @@ const projectsData = [
   {title:"مشروع 15", link:"https://alajyaltec.com"},
   {title:"مشروع 16", link:"https://electrox-shope.com"},
   {title:"مشروع 17", link:"https://beauttiq.com"},
-  {title:"مشروع 17", link:"https://phllog.com"}
+  {title:"مشروع 17", link:"https://phllog.com"},
+  {title:"مشروع 18", link:"https://abdullah-elgharbawy.com/"}
 ];
 function createProjects() {
   const grid = document.getElementById("projectsGrid");
